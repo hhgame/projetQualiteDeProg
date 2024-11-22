@@ -5,6 +5,6 @@ using namespace std;
 
 int main() {
     cout << "Hello," << endl;
-    cout<<M_PI<<endl;
+    cout<<sin(0)<<endl;
     return 0;
 }
